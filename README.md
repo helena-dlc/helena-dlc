@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Helena
+- 👋 Hi, I’m Helena from Chile
 - 👀 I’m interested in Frontend Dev, UX Ui and Data Analysis
 - 🌱 I’m currently learning Js Frameworks like Vue and React
 
