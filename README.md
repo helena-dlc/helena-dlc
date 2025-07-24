@@ -1,6 +1,6 @@
 - 👋Hola, soy Helena. Vivo en Chile
 - 👀 Estoy interesada en : Desarrollo Frontend, Análisis de Datos y Diseño Ux Ui
-- 🌱 Actualmente estoy aprendiendo: Js Frameworks como Vue and React
+- 🌱 Actualmente estoy aprendiendo:  React y el Framework Vue.js . Así como Python y R para Análisis de Datos.
 
   
 - ⚡ Fun fact: Egresada de Ing. Comercial e Ilustradora en pausa.
